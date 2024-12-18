@@ -4,8 +4,8 @@ import socket
 import threading
 
 # Define the Bluetooth service and characteristics UUIDs
-SERVICE_UUID = "0000180f-0000-1000-8000-00805f9b34fb"  # Battery Service
-CHARACTERISTIC_UUID = "00002a19-0000-1000-8000-00805f9b34fb"  # Battery Level
+SERVICE_UUID = "uuid here"  # Battery Service
+CHARACTERISTIC_UUID = "uuid here"  # Battery Level
 
 # TCP server details
 TCP_SERVER_IP = 'host ip'
