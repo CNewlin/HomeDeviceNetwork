@@ -10,5 +10,7 @@ The beaglebone acts as the network hub, which connects to the app and raspberry 
 
 The app acts as a remote, allowing the user to toggle a device with the push of a button, much like many apps available for IoT appliances we see today.
 
+A short demo of one element of our network, the heating pad (meant to mimic a heater) can be seen [Here](https://www.youtube.com/watch?v=TFgk-hnp7Po)
+
 ![newdiagramwoo](https://github.com/user-attachments/assets/38a82583-77d0-45ae-80a1-93a0379db25a)
 ![cap1](https://github.com/user-attachments/assets/fb3ba357-b1a5-49f7-9b07-274cafe88539)
